@@ -5,17 +5,17 @@ const Hero = () => {
     {
       name: "✨ Hey Beauties! ✨",
       title: "Love you all to the friends group! 🚀",
-      bg: "bg-[blue]",
+      bg: "bg-[white]",
     },
     {
       name: "Stay Bold 🔥",
       title: "Feel free to tweak it according to your vibe! 😊",
-      bg: "bg-[blue]",
+      bg: "bg-[white]",
     },
     {
       name: "Dream Big 🦋",
       title: "Support Each Other Always 💞",
-      bg: "bg-[blue]",
+      bg: "bg-[white]",
     },
   ];
 
@@ -53,9 +53,9 @@ const Hero = () => {
                 return (
                   <div
                     key={index}
-                    className={`${index == 2 && "col-span-1 block"} ${
-                      index == 2 && "col-span-1 sm:hidden"
-                    }   w-full rounded-lg p-1 text-white ${bg}  text-center  border border-[#292828]`}
+                    className={`${index === 2 && "col-span-1 block"} ${
+                      index === 2 && "col-span-1 sm:hidden"
+                    }   w-full rounded-lg p-1 text-black ${bg}  text-center shadow-md shadow-gray`}
                   >
                     <div className="py-4">
                       <h1 className="text-[2rem]">{name}</h1>

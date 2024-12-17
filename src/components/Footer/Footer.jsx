@@ -73,7 +73,7 @@ const Footer = () => {
 
       <div className=" flex sm:justify-between justify-center flex-wrap w-full pt-3 sm:pt-0">
         <p className=" font-sans text-[0.8rem] tracking-wider text-black sm:mt-0 mt-12 w-full px-12 sm:px-0 sm:w-auto  sm:py-8 py-6 text-center">
-          @2024 Make by Miss Aart. All Rights Reserved.{" "}
+          @2024 Make by Miss Aarti. All Rights Reserved.
           <span className=" ml-1">Terms & Conditions</span>
         </p>
         <span className="flex text-2xl text-[3.2rem] ml-4 sm:ml-0 sm:text-[2.2rem] gap-2 text-black sm:mt-7 -mt-36 sm:pt-0 pt-5 text-center">
