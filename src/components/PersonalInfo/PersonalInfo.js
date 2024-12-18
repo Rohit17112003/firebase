@@ -1,15 +1,14 @@
-import React from 'react';
-import MyHistory from './MyHistory';
-import MyBoidata from './MyBoidata';
-
+import React from "react";
+import MyBoidata from "./MyBoidata";
+import PersonalSlider from "./PersonalSlider";
 
 const PersonalInfo = () => {
-    return (
-        <div>
-            <MyHistory />
-            <MyBoidata />
-        </div>
-    )
-}
+  return (
+    <div>
+      <PersonalSlider />
+      <MyBoidata />
+    </div>
+  );
+};
 
 export default PersonalInfo;
