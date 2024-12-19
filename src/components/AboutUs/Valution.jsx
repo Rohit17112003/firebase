@@ -24,7 +24,7 @@ const Valution = () => {
       <div className="w-full">
         <div className=" sm:grid grid-cols-1 sm:grid-cols-2 flex flex-col-reverse gap-5  w-full">
           <div className=" flex flex-col  gap-[1.1rem] sm:mt-0 -mt-20">
-            <h1 className="sm:text-[2.4rem] text-[2rem] font-[500] text-[#000000] mt-0 sm:mt4">
+            <h1 className="sm:text-[2.4rem] text-[2rem] font-[500] text-[#000000] mt-0 sm:mt-4">
               Our Journey
             </h1>
             <span className="text-[0.90rem] sm:text-[0.98rem] tracking-wider font-sans font-thin text-black from-neutral-50">
