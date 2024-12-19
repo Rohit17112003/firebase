@@ -71,7 +71,7 @@ const Hero = () => {
         <div className="flex sm:items-end sm:justify-end h-[26rem] sm:h-[35rem] mt-4 sm:mt-10 mb-16 sm:mb-0">
           <a href="https://ibb.co/wdWPLCk">
             <img
-              className="sm:hidden block w-full rounded-lg shadow-md shadow-gray-400"
+              className="sm:hidden block w-full rounded-lg shadow-sm shadow-gray-400"
               src="https://i.ibb.co/518S9v0/IMG-20241219-140127.jpg"
               alt="IMG-20241219-140127"
               border="0"
