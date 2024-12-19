@@ -24,7 +24,7 @@ const Valution = () => {
       <div className="w-full">
         <div className=" sm:grid grid-cols-1 sm:grid-cols-2 flex flex-col-reverse gap-5  w-full">
           <div className=" flex flex-col  gap-[1.1rem] sm:mt-0 -mt-20">
-            <h1 className="sm:text-[2.4rem] text-[2rem] font-[500] text-[#000000] mt-4">
+            <h1 className="sm:text-[2.4rem] text-[2rem] font-[500] text-[#000000] mt-0 sm:mt-4">
               Our Journey
             </h1>
             <span className="text-[0.90rem] sm:text-[0.98rem] tracking-wider font-sans font-thin text-black from-neutral-50">
@@ -62,8 +62,18 @@ const Valution = () => {
             <img
               src="../images/Sub Container.svg"
               alt="herologo"
-              className=" box-cover h-full rounded-[0.8rem] sm:rounded-none "
+              className=" box-cover h-full rounded-[0.8rem] sm:rounded-none sm:block hidden "
             />
+            <div class="w-full h-full mt-20 rounded-lg  overflow-hidden">
+              <a href="https://ibb.co/XXyJvvJ">
+                <img
+                  className="w-full -mt-2 rounded-lg"
+                  src="https://i.ibb.co/wyJ6xx6/IMG-20241216-WA0067.jpg"
+                  alt="IMG-20241216-WA0067"
+                  border="0"
+                />
+              </a>
+            </div>
           </div>
         </div>
       </div>
