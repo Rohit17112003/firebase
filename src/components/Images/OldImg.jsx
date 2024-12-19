@@ -126,7 +126,7 @@ const OldImg = () => {
       <div class="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
         <a href="https://ibb.co/hKdycpD">
           <img
-            className="h-full"
+            className="h-full w-full"
             src="https://i.ibb.co/VvCtxX2/IMG-20241219-WA0182.jpg"
             alt="IMG-20241219-WA0182"
             border="0"
@@ -157,7 +157,7 @@ const OldImg = () => {
       <div class="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
         <a href="https://ibb.co/4Wh1Cvw">
           <img
-            className="h-full"
+            className="h-full w-full"
             src="https://i.ibb.co/mJfNdZr/IMG-20241219-WA0193.jpg"
             alt="IMG-20241219-WA0193"
             border="0"
