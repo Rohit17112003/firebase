@@ -23,7 +23,7 @@ const Hero = () => {
     <div className="w-full backdrop-blur-sm shadow-sm shadow-white overflow-x-hidden">
       <div className=" sm:grid grid-cols-1 sm:grid-cols-2 flex flex-col-reverse  w-full">
         <div className="flex flex-col  gap-[1.1rem]">
-          <h1 className="sm:text-[2.4rem] text-[2rem] font-[500] text-[#000]  mt-72 sm:mt-16">
+          <h1 className="sm:text-[2.4rem] text-[2rem] font-[500] text-[#000]  mt-80 sm:mt-16">
             Discover Your Dream <br></br>
             Aarti with Estatein
           </h1>
