@@ -23,7 +23,7 @@ const Hero = () => {
     <div className="w-full backdrop-blur-sm shadow-sm shadow-white overflow-x-hidden">
       <div className=" sm:grid grid-cols-1 sm:grid-cols-2 flex flex-col-reverse  w-full">
         <div className="flex flex-col  gap-[1.1rem]">
-          <h1 className="sm:text-[2.4rem] text-[2rem] font-[500] text-[#000] mt-8 sm:mt-16">
+          <h1 className="sm:text-[2.4rem] text-[2rem] font-[500] text-[#000]  mt-72 sm:mt-16">
             Discover Your Dream <br></br>
             Aarti with Estatein
           </h1>
@@ -34,13 +34,13 @@ const Hero = () => {
           </span>
           <div className="pb-0 sm:pb-0 md:pb-8 lg:pb-0 flex flex-wrap sm:flex-nowrap gap-5 sm:gap-5">
             <button
-              className={` py-4 sm:py-0 border border-[#1b1b1b]  text-[0.9rem] sm:mt-5 h-[3.3rem] w-full sm:w-[8.3rem] mt-6  text-white bg-[#3725874c] px-[0.6rem] rounded-[0.5rem] `}
+              className={` py-4 sm:py-0  shadow-sm shadow-gray-300  text-[0.9rem] sm:mt-5 h-[3.3rem] w-full sm:w-[8.3rem] mt-6  text-white bg-[#3725874c] px-[0.6rem] rounded-[0.5rem] `}
             >
               Learn More
             </button>
 
             <button
-              className={` py-4 sm:py-0  border border-[#1b1b1b] text-[0.9rem] sm:mt-5 h-[3.3rem] sm:w-[11rem] w-full text-white bg-[#292828] px-[0.8rem] rounded-[0.5rem] `}
+              className={` py-4 sm:py-0  shadow-sm shadow-gray-300 text-[0.9rem] sm:mt-5 h-[3.3rem] sm:w-[11rem] w-full text-white bg-[#292828] px-[0.8rem] rounded-[0.5rem] `}
             >
               Browse Properties
             </button>
