@@ -14,7 +14,7 @@ const OurTeam = () => {
             title: "Chief Real Estate Officers Here"
 
         }, {
-            image: "https://i.ibb.co/k58zzPb/IMG-20241207-220048.jpg",
+            image: "https://i.ibb.co/sszwnvq/IMG-20241219-141739.jpg",
             name: "Miss Aarti",
             title: "Head of Property Management"
 
