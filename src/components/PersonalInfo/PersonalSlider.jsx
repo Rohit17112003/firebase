@@ -58,9 +58,9 @@ const PersonalSlider = () => {
 
           <div className="flex justify-between">
             <p className="text-black sm:text-[0.8rem] text-[0.7rem] ">
-              Explore our handpicked selection of PersonalSlider properties. Each
-              listing offers a glimpse into exceptional homes and investments
-              available <br></br>through Estatein. Click &quot;View
+              Explore our handpicked selection of PersonalSlider properties.
+              Each listing offers a glimpse into exceptional homes and
+              investments available <br></br>through Estatein. Click &quot;View
               Details&quot; for more information.
             </p>
           </div>
@@ -74,180 +74,80 @@ const PersonalSlider = () => {
           className="max-w-[61rem] mt-0 outline-none overflow-x-hidden"
         >
           <div class="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
-            <a href="https://ibb.co/DWbWQGp">
+            <a href="https://ibb.co/LvF5Wwv">
               <img
-                src="https://i.ibb.co/yPRPqhS/IMG-20240818-WA0067.jpg"
-                alt="IMG-20240818-WA0067"
+                src="https://i.ibb.co/vDFYG5D/1728696678860.jpg"
+                alt="1728696678860"
                 border="0"
               />
             </a>
           </div>
 
           <div class="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
-            <a href="https://ibb.co/cYSTR2N">
+            <a href="https://ibb.co/VQwLgmz">
               <img
-                src="https://i.ibb.co/GH4PGCV/IMG-20240818-WA0122.jpg"
-                alt="IMG-20240818-WA0122"
+                src="https://i.ibb.co/BrnfyNQ/1728697212024.jpg"
+                alt="1728697212024"
                 border="0"
               />
             </a>
           </div>
 
           <div class="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
-            <a href="https://ibb.co/GPL64Tk">
+            <a href="https://ibb.co/Pc4Wq4s">
               <img
-                src="https://i.ibb.co/bdZ0MJL/IMG-20240818-WA0064.jpg"
-                alt="IMG-20240818-WA0064"
+                src="https://i.ibb.co/2vPMGP0/1728698237875.jpg"
+                alt="1728698237875"
                 border="0"
               />
             </a>
           </div>
 
           <div class="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
-            <a href="https://ibb.co/54QYWFr">
+            <a href="https://ibb.co/qn0VXHZ">
               <img
-                src="https://i.ibb.co/mTnvC89/IMG-20240818-WA0042.jpg"
-                alt="IMG-20240818-WA0042"
+                src="https://i.ibb.co/g7vhH0n/1728698628836.jpg"
+                alt="1728698628836"
                 border="0"
               />
             </a>
           </div>
 
           <div class="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
-            <a href="https://ibb.co/QHTGL3Q">
+            <a href="https://ibb.co/h7KG7cZ">
               <img
-                src="https://i.ibb.co/ZgFC5pX/IMG-20240818-WA0119.jpg"
-                alt="IMG-20240818-WA0119"
+                src="https://i.ibb.co/xCMnCYf/1728698876456.jpg"
+                alt="1728698876456"
                 border="0"
               />
             </a>
           </div>
 
           <div class="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
-            <a href="https://ibb.co/rfR7VXN">
+            <a href="https://ibb.co/WtkRR30">
               <img
-                src="https://i.ibb.co/3Y9rnPQ/IMG-20240818-WA0046.jpg"
-                alt="IMG-20240818-WA0046"
+                src="https://i.ibb.co/PQcVVYM/1728832168929.jpg"
+                alt="1728832168929"
                 border="0"
               />
             </a>
           </div>
 
           <div class="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
-            <a href="https://ibb.co/YQqMNPx">
+            <a href="https://ibb.co/BnFjCDJ">
               <img
-                src="https://i.ibb.co/H4ksKBj/IMG-20240818-WA0121.jpg"
-                alt="IMG-20240818-WA0121"
+                src="https://i.ibb.co/Z27KMsr/1728652826949.jpg"
+                alt="1728652826949"
                 border="0"
               />
             </a>
           </div>
 
           <div class="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
-            <a href="https://ibb.co/8X8GpVx">
+            <a href="https://ibb.co/Lg2hKN1">
               <img
-                src="https://i.ibb.co/BwsvxR6/IMG-20240818-WA0052.jpg"
-                alt="IMG-20240818-WA0052"
-                border="0"
-              />
-            </a>
-          </div>
-
-          <div class="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
-            <a href="https://ibb.co/7zsPP8J">
-              <img
-                src="https://i.ibb.co/sP8nnkv/IMG-20240818-WA0031.jpg"
-                alt="IMG-20240818-WA0031"
-                border="0"
-              />
-            </a>
-          </div>
-
-          <div class="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
-            <a href="https://ibb.co/RNvwpCC">
-              <img
-                src="https://i.ibb.co/f91wYCC/IMG-20240818-WA0040.jpg"
-                alt="IMG-20240818-WA0040"
-                border="0"
-              />
-            </a>
-          </div>
-
-          <div class="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
-            <a href="https://ibb.co/gJvC1nm">
-              <img
-                src="https://i.ibb.co/M78LTXZ/IMG-20240818-WA0123.jpg"
-                alt="IMG-20240818-WA0123"
-                border="0"
-              />
-            </a>
-          </div>
-
-          <div class="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
-            <a href="https://ibb.co/db1BnY1">
-              <img
-                src="https://i.ibb.co/yhG0LjG/IMG-20240818-WA0105.jpg"
-                alt="IMG-20240818-WA0105"
-                border="0"
-              />
-            </a>
-          </div>
-
-          <div class="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
-            <a href="https://ibb.co/0YfQL0M">
-              <img
-                src="https://i.ibb.co/YftbS5k/IMG-20240818-WA0039.jpg"
-                alt="IMG-20240818-WA0039"
-                border="0"
-              />
-            </a>
-          </div>
-
-          <div class="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
-            <a href="https://ibb.co/thTbjSw">
-              <img
-                src="https://i.ibb.co/N3dLDXg/IMG-20240818-WA0033.jpg"
-                alt="IMG-20240818-WA0033"
-                border="0"
-              />
-            </a>
-          </div>
-
-          <div class="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
-            <a href="https://ibb.co/Rbn5vXR">
-              <img
-                src="https://i.ibb.co/fFRc13j/IMG-20240818-WA0061.jpg"
-                alt="IMG-20240818-WA0061"
-                border="0"
-              />
-            </a>
-          </div>
-
-          <div class="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
-            <a href="https://ibb.co/hYvvsGw">
-              <img
-                src="https://i.ibb.co/41xxWb3/IMG-20240818-WA0063.jpg"
-                alt="IMG-20240818-WA0063"
-                border="0"
-              />
-            </a>
-          </div>
-
-          <div class="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
-            <a href="https://ibb.co/4KhGj1z">
-              <img
-                src="https://i.ibb.co/pbY83hc/IMG-20240818-WA0056.jpg"
-                alt="IMG-20240818-WA0056"
-                border="0"
-              />
-            </a>
-          </div>
-
-          <div class="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
-            <a href="https://ibb.co/7p8yZrK">
-              <img
-                src="https://i.ibb.co/ykGsZgq/IMG-20240818-WA0054.jpg"
-                alt="IMG-20240818-WA0054"
+                src="https://i.ibb.co/kDW6ZmX/1728697051496.jpg"
+                alt="1728697051496"
                 border="0"
               />
             </a>
