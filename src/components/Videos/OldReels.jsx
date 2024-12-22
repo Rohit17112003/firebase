@@ -62,6 +62,42 @@ const OldReels = () => {
           <source className="w-full" src="./videos/10.mp4" type="video/mp4" />
         </video>
       </div>
+
+      <div className="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
+        <video controls>
+          <source className="w-full" src="./videos/11.mp4" type="video/mp4" />
+        </video>
+      </div>
+
+      <div className="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
+        <video controls>
+          <source className="w-full" src="./videos/12.mp4" type="video/mp4" />
+        </video>
+      </div>
+
+      <div className="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
+        <video controls>
+          <source className="w-full" src="./videos/13.mp4" type="video/mp4" />
+        </video>
+      </div>
+
+      <div className="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
+        <video controls>
+          <source className="w-full" src="./videos/14.mp4" type="video/mp4" />
+        </video>
+      </div>
+
+      <div className="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
+        <video controls>
+          <source className="w-full" src="./videos/15.mp4" type="video/mp4" />
+        </video>
+      </div>
+
+      <div className="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
+        <video controls>
+          <source className="w-full" src="./videos/16.mp4" type="video/mp4" />
+        </video>
+      </div>
     </div>
   );
 };
