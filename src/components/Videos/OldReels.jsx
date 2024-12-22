@@ -52,7 +52,7 @@ const OldReels = () => {
       </div>
 
       <div className="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
-        <video controls>
+        <video controls className="h-full w-full">
           <source className="w-full" src="./videos/9.mp4" type="video/mp4" />
         </video>
       </div>
