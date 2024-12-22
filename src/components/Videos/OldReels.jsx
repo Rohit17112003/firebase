@@ -218,6 +218,102 @@ const OldReels = () => {
           <source className="w-full" src="./videos/36.mp4" type="video/mp4" />
         </video>
       </div>
+
+      <div className="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
+        <video controls>
+          <source className="w-full" src="./videos/37.mp4" type="video/mp4" />
+        </video>
+      </div>
+
+      <div className="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
+        <video controls>
+          <source className="w-full" src="./videos/38.mp4" type="video/mp4" />
+        </video>
+      </div>
+
+      <div className="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
+        <video controls>
+          <source className="w-full" src="./videos/39.mp4" type="video/mp4" />
+        </video>
+      </div>
+
+      <div className="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
+        <video controls>
+          <source className="w-full" src="./videos/40.mp4" type="video/mp4" />
+        </video>
+      </div>
+
+      <div className="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
+        <video controls>
+          <source className="w-full" src="./videos/41.mp4" type="video/mp4" />
+        </video>
+      </div>
+
+      <div className="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
+        <video controls>
+          <source className="w-full" src="./videos/42.mp4" type="video/mp4" />
+        </video>
+      </div>
+
+      <div className="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
+        <video controls>
+          <source className="w-full" src="./videos/43.mp4" type="video/mp4" />
+        </video>
+      </div>
+
+      <div className="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
+        <video controls>
+          <source className="w-full" src="./videos/44.mp4" type="video/mp4" />
+        </video>
+      </div>
+
+      <div className="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
+        <video controls>
+          <source className="w-full" src="./videos/45.mp4" type="video/mp4" />
+        </video>
+      </div>
+
+      <div className="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
+        <video controls>
+          <source className="w-full" src="./videos/46.mp4" type="video/mp4" />
+        </video>
+      </div>
+
+      <div className="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
+        <video controls>
+          <source className="w-full" src="./videos/47.mp4" type="video/mp4" />
+        </video>
+      </div>
+
+      <div className="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
+        <video controls>
+          <source className="w-full" src="./videos/48.mp4" type="video/mp4" />
+        </video>
+      </div>
+
+      <div className="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
+        <video controls>
+          <source className="w-full" src="./videos/49.mp4" type="video/mp4" />
+        </video>
+      </div>
+
+      <div className="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
+        <video controls>
+          <source className="w-full" src="./videos/50.mp4" type="video/mp4" />
+        </video>
+      </div>
+
+      <div className="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
+        <video controls>
+          <source className="w-full" src="./videos/51.mp4" type="video/mp4" />
+        </video>
+      </div>
+
+      <div className="sm:max-w-sm max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
+        <video controls>
+          <source className="w-full" src="./videos/52.mp4" type="video/mp4" />
+        </video>
+      </div>
     </div>
   );
 };
